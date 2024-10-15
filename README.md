@@ -56,14 +56,3 @@ Tento Proof of Concept má za cíl vytvořit generátor článků, který pomů�
   - Výsledky jsou také zobrazeny v konzoli pro okamžitou kontrolu uživatelem.
 
 
-## Návrhy na další verze generátoru
-
-- **Vícejazyčná podpora**: Přidání možnosti generovat články v různých jazycích.
-- **Pokročilá analýza klíčových slov**: Integrace nástrojů pro analýzu klíčových slov a jejich trendů.
-- **Personalizované šablony**: Nabídka různých šablon pro různé typy článků.
-- **Integrace s CMS**: Možnost přímého publikování článků na platformy jako WordPress.
-- **Automatizovaná grafika**: Generování nebo doporučení obrázků a grafů relevantních k obsahu článku.
-- **Uživatelské rozhraní**: Vytvoření grafického uživatelského rozhraní pro snadnější používání nástroje.
-
-
-Tento PoC demonstruje schopnost automatizované tvorby kvalitního obsahu, který splňuje základní požadavky SEO optimalizace a poskytuje hodnotné informace čtenářům. S dalším vývojem a implementací navrhovaných vylepšení může tento generátor významně usnadnit tvorbu obsahu pro jednotlivce i firmy.
